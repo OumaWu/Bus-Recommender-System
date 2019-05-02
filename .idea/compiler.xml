@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Bus_Dataloader" />
+        <module name="Bus_recommender" />
+        <module name="kafka_producer" />
+        <module name="kafka_spark_kafka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ALSOfflineRecommend" target="1.8" />
+      <module name="DataLoader" target="1.8" />
+      <module name="OfflineRecommend" target="1.8" />
+      <module name="REC_1" target="1.8" />
+      <module name="sparkTP" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="ALSOfflineRecommend,Bus_Dataloader,Bus_recommender,DataLoader,MusicRecommendSystem,OfflineRecommend,REC_1,kafka_producer,kafka_spark_kafka,sparkTP" />
+  </component>
+</project>
